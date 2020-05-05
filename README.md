@@ -5,3 +5,5 @@ No one ever reads this
 We are on the develop branch
 
 adding a new feature
+
+Another amazing feature
